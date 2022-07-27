@@ -1,0 +1,20 @@
+{
+  "name": "eurocent-round",
+  "version": "1.0.0",
+  "description": "Function to round value to rounder value",
+  "main": "index.js",
+  "scripts": {
+    "test": "export NODE_OPTIONS=--max_old_space_size=4096 && mocha"
+  },
+  "keywords": [
+    "money",
+    "round",
+    "euro",
+    "cent"
+  ],
+  "author": "klaucode",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
